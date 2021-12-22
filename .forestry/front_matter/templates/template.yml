@@ -45,3 +45,5 @@ fields:
 - type: number
   name: calories
   label: calories
+pages:
+- content/comida-de-prueba.md
