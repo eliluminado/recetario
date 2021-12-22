@@ -1,0 +1,46 @@
+---
+label: Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: file
+  name: recipe_image
+  label: recipe_image
+- type: number
+  name: image_width
+  label: image_width
+- type: number
+  name: image_height
+  label: image_height
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: tagline
+  label: tagline
+- type: number
+  name: servings
+  label: servings
+- type: number
+  name: prep_time
+  label: prep_time
+- type: boolean
+  name: cook
+  label: cook
+- type: text
+  name: cook_increment
+  label: cook_increment
+- type: number
+  name: cook_time
+  label: cook_time
+- type: number
+  name: calories
+  label: calories
